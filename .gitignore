@@ -1,0 +1,8 @@
+.settings/
+frameworks/
+runtime/
+.cocos-project.json
+.project
+*.json
+*.html
+main.js
